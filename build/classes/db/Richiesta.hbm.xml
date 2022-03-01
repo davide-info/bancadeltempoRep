@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+<hibernate-mapping>
+    <class name="entita.Richiesta" entity-name="richiesta">
+        <id name="idRichiesta" type="int" column="id_richiesta">
+            
+        </id>
+        <property name="dataRichiesta" type="date" column="data_richiesta"/>
+        <property name="descrizione" type="string" column="descrizione"/>
+        <property name="zona" type="int" column="fk_zona"/>
+    </class>
+</hibernate-mapping>

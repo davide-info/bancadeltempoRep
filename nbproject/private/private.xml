@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/modelloGrafico/ModelloUtenteDto.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoCategoria.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/modelloGrafico/MioModelloTabella.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoPrenotazione.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/OffertaService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/ZonaDiRiferimento.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Prenotazione.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/InserisciRichiesta.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/bancadeltempohibernate/BancadeltempoHibernate.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoPrestazione.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoTelefono.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/TestMain.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Prestazione.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Telefono.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Offerta.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/ProvaGUI.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/AttivitaService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoSottoCategoria.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoAttivita.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/InserisciUtente.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/UtenteService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/SottoCategoria.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoZonaDiRiferimento.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/gui/InserisciPrenotazione.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/CategoriaService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Utente.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Attivita.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/RichiestaService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Categoria.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/service/PrenotazioneService.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoOfferta.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoRichiesta.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/dao/DaoUtente.java</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/db/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/win/banca%20del%20tempo%20tesi/bancadeltempoHibernate/src/entita/Richiesta.java</file>
+        </group>
+    </open-files>
+</project-private>

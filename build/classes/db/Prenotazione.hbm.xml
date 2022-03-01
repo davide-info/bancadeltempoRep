@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+    <class name="entita.Prenotazione" entity-name="prenotazione">
+        <id name="idPrenotazione" column="id_prenotazione">
+        </id>  
+        <property name="durataPrenotazione" column="durata_prenotazione" type="int"/>
+        <property name="utente" column="fk_utente" type="string"/>
+        <property name="dataPrenotazione" column="data_prenotazione" type="date"/>
+        <property name="prestazione" column="fk_prestazione" type="int"/>
+        <property name="oraPrenotazione" column="ora_prenotazione" type="time"/>
+          
+    </class>
+
+</hibernate-mapping>

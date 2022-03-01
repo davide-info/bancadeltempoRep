@@ -1,0 +1,54 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC 
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN" 
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+
+		
+			<property name="hibernate.connection.driver_class">
+				org.postgresql.Driver
+                                </property>
+                                <property name="hibernate.dialect">
+                                    
+                                    org.hibernate.dialect.PostgreSQLDialect
+                                </property>
+			
+			
+                                <property name="hibernate.connection.username">
+                                    postgres
+                                </property>
+                                <property name="hibernate.connection.password">
+                                    davide
+                                </property>
+                                <property name="hibernate.connection.url">
+                                   jdbc:postgresql://localhost/tesi
+                                </property>
+                        <property name="hibernate.current_session_context_class">
+                            thread
+                        </property>
+                        <property name="hibernate.hbm2ddl.auto">
+                  update
+                        </property>
+                         <property name="connection.pool_size">5</property>
+                        
+                        <property name="hibernate.show_sql">
+                           false
+                        </property>
+			
+                        <mapping class="entita.Attivita" resource="src/db/Attivita.hbm.xml" />
+                        <mapping class="entita.Utente" resource="src/db/Utente.hbm.xml"/>
+                        <mapping class="entita.SottoCategoria" resource="src/db/SottoCategoria.hbm.xml"/>
+                        <mapping class="entita.Categoria" resource="src/db/Categoria.hbm.xml"/>
+                        <mapping class="entita.Richiesta" resource="src/db/Richiesta.hbm.xml"/>
+                       
+                        <mapping class="entita.Offerta" resource="src/db/Offerta.hbm.xml"/>
+                        <mapping class="entita.Prenotazione" resource="src/db/Prenotazione.hbm.xml"/>
+                        <mapping class="entita.Prestazione" resource="src/db/Prestazione.hbm.xml"/>
+                        <mapping  class="entita.Telefono" resource="src/db/Telefono.hbm.xml"/>
+                        <mapping  class="entita.ZonaDiRiferimento" resource="src/db/ZonaDiRiferimento.hbm.xml"/>
+                        	
+		
+
+	</session-factory>
+</hibernate-configuration>

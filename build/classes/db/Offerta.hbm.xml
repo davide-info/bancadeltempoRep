@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+<hibernate-mapping>
+    <class name="entita.Offerta" entity-name="offerta" >
+        <id name="idOfferta" column="id_offerta" type="int">
+        </id>
+        <property name="dataOfferta" column="data_offerta" type="date"/>
+        <property name="utente" column="fk_utente" type="string"/>
+        <property name="zona" column="fk_zona" type="int"/>
+     
+        
+    </class>
+    
+
+</hibernate-mapping>
